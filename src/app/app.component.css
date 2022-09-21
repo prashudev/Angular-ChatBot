@@ -1,0 +1,11 @@
+.chat-button{
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+}
+
+.chat-window{
+    position: fixed;
+    bottom: 5.5rem;
+    right: 2.5rem;
+}
